@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# generated artefacts -- large, and reproducible from the scripts
+features/
+folds/
+results/
+results_*/
+manifests/
+*.npz
+*.wav
+
+# LaTeX build products
+*.aux
+*.log
+*.out
+*.synctex.gz

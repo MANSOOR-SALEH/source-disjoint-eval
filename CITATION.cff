@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: source-disjoint-eval
+message: If you use this software, please cite the accompanying paper.
+type: software
+authors:
+  - family-names: Ba Mahel
+    given-names: Mansoor S. M.
+    affiliation: Tianjin University; Shabwah University
+  - family-names: Wei
+    given-names: Jianguo
+    affiliation: Tianjin University
+license: MIT
+repository-code: https://github.com/MANSOOR-SALEH/source-disjoint-eval
+preferred-citation:
+  type: article
+  title: Constructing Valid Source-Disjoint Comparisons in Dialect Identification
+  authors:
+    - family-names: Ba Mahel
+      given-names: Mansoor S. M.
+    - family-names: Wei
+      given-names: Jianguo
+  year: 2026
+  notes: Submitted to IEEE Signal Processing Letters
