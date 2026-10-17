@@ -1,0 +1,30 @@
+﻿source_id,ShowName,dominant_dialect,purity
+SHOW_00,ابتسامات رمضانية,SADA_NAJ,1.0
+SHOW_01,احب السعودية,SADA_NAJ,0.96
+SHOW_02,الديرة,SADA_NAJ,0.914
+SHOW_03,بدون زعل,SADA_HIJ,1.0
+SHOW_04,برنامج سباق المشاهدين ح,SADA_NAJ,1.0
+SHOW_05,برنامج عيد سعيد,SADA_NAJ,1.0
+SHOW_06,جربها,SADA_HIJ,0.8
+SHOW_07,حديث المجالس,SADA_NAJ,0.967
+SHOW_08,حديث المجالس بمناسبة مرور,SADA_NAJ,1.0
+SHOW_09,حكايات بابا فرحان,SADA_HIJ,0.851
+SHOW_10,خزنة,SADA_KHA,0.773
+SHOW_11,دمعة عمر,SADA_KHA,0.744
+SHOW_12,زعرور,SADA_KHA,0.748
+SHOW_13,سباق المشاهدين,SADA_NAJ,0.916
+SHOW_14,سداسية إخلاص,SADA_NAJ,1.0
+SHOW_15,سناب شاف,SADA_NAJ,1.0
+SHOW_16,سواق المعازيب,SADA_KHA,0.803
+SHOW_17,شباب البومب,SADA_KHA,0.857
+SHOW_18,شي قورميه,SADA_NAJ,1.0
+SHOW_19,شير شاتشير شات,SADA_NAJ,1.0
+SHOW_20,ضحى مع القصار,SADA_KHA,0.721
+SHOW_21,طبخ بلا هدر,SADA_NAJ,0.833
+SHOW_22,طفلي لا يفعلها,SADA_NAJ,1.0
+SHOW_23,عندما تغيب الحقيقة,SADA_HIJ,0.884
+SHOW_24,غلطة نوف,SADA_KHA,0.783
+SHOW_25,قصر فوق الرمال,SADA_HIJ,0.831
+SHOW_26,مسلسل ابو العصافير,SADA_NAJ,1.0
+SHOW_27,مطبخ ضحى,SADA_NAJ,0.974
+SHOW_28,وجه بن فهرة,SADA_KHA,0.788
